@@ -1,7 +1,9 @@
 # Developer-Back-End-Senai
 Destinado ao curso Desenvolvedor Back-End do Senai.
 
-
+<p align="left">
+  <img src="https://github.com/lopesestacio/Desenvolvedor-Back-End-Senai/blob/master/images/imagelogo.jpg" width="60%",  title="imagelogo">
+</p>
 
 ✨| Developer-Back-End-Senai | Status
 --- | ---| ---
@@ -16,7 +18,9 @@ Destinado ao curso Desenvolvedor Back-End do Senai.
 
 ## Cronograma
 
-
+<p align="left">
+  <img src="https://github.com/lopesestacio/Desenvolvedor-Back-End-Senai/blob/master/images/Cronograma.png" width="60%",  title="cronogroma">
+</p>
 
 ## Status Definitions
  &#9744; Significa que o capítulo específico ainda não foi iniciado 👍 <br>
