@@ -28,3 +28,16 @@ Destinado ao curso Desenvolvedor Back-End do Senai.
  &#9746; Estudando 👨‍💻 <br>
  &#9744; Aguardando 👍<br>
  
+## 🤝 Contributions
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.pe.senai.br/">
+        <img src="https://github.com/lopesestacio/Desenvolvedor-Front-End-Senai/blob/master/LogoSenai.png" width="100px;" alt="Senai"/><br>
+        <sub> 
+           <b>Bolsa de estudos</b> 
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
