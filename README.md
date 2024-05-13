@@ -11,9 +11,9 @@ Destinado ao curso Desenvolvedor Back-End do Senai.
 2 | Versionamento |  &#9745;
 3 | Lógica de Programação |  &#9745;
 4 | Codificação para Back-End |  &#9745;
-5 | Banco de Dados |  &#9746;
-6 | Desenvolvimento de APIs |  &#9744;
-7 | Testes de Back-End | &#9744;
+5 | Banco de Dados |  &#9745;
+6 | Desenvolvimento de APIs |  &#9745;
+7 | Testes de Back-End | &#9745;
 
 
 ## Cronograma
